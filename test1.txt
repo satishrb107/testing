@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5A15-E15C
+
+ Directory of C:\software\GIT\project
+
+03-09-2020  21:32    <DIR>          .
+03-09-2020  21:32    <DIR>          ..
+03-09-2020  21:31    <DIR>          .git
+03-09-2020  21:32                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  282,397,188,096 bytes free
